@@ -1,0 +1,7 @@
+serveruri: http://www.google.com
+configObject:
+   field1: awesome
+   field2: bad
+secret: '{cipher}a278cf1ccadb3c3fc4d9d6024d82841f8c460da43f6bee75d7281012dd5c0db7'
+test: "this is a test"
+
