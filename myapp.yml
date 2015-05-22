@@ -1,4 +1,4 @@
-serveruri: http://www.google.com
+serveruri: http://www.google.com-test
 configObject:
    field1: awesome
    field2: odd
