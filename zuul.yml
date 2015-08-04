@@ -1,1 +1,9 @@
-test: blabla
+axway:
+  iam:
+   service:
+     name: iam
+   method:
+     name: generate
+  token:
+    header:
+      name: ams-token
