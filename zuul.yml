@@ -9,3 +9,5 @@ axway:
       name: ams-token
   portal:
     type: external
+    external:
+      url: http://www.apache.org
