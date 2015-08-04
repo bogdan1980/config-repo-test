@@ -7,3 +7,7 @@ axway:
   token:
     header:
       name: ams-token
+  portal:
+    type: external
+    external:
+      url: http://www.google.com
