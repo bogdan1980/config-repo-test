@@ -5,6 +5,7 @@ axway:
    method:
      name: generate
   token:
+    check: no 
     header:
       name: ams-token
   portal:
