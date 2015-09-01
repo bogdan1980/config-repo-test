@@ -9,6 +9,6 @@ axway:
     header:
       name: ams-token
   portal:
-    type: external
+    type: internal
     external:
       url: http://www.apache.org
