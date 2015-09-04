@@ -7,8 +7,6 @@ axway:
   token:
     check: no 
     header:
-      name: ams-token
+      name: x-subject-token
   portal:
     type: internal
-    external:
-      url: http://www.apache.org
