@@ -1,5 +1,4 @@
 test: this is a test for the frontend
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
-   configuration: '[{ "event": "undefined","url": "undefined","criteria": "undefined"},
-      { "event": "ping_successful","url": "essai","criteria": "essai"}]}'
+   configuration: '[{ "event": "ping_successful","url": "essai1","criteria": "essai2"}]'
