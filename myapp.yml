@@ -5,3 +5,4 @@ configObject:
    field3: '{cipher}7ab791a3eedcea730e144c2a7391715fbfba2bed02f34a1f9ba7bf262951b039'
 logging:
    level.net.axway.spring.config.test: INFO
+d: c
