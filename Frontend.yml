@@ -1,6 +1,5 @@
 test: this is a test for the frontend
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
-   configuration: '[ { "event" : "ping_successful", "when" : "after", "url" : "http://www.google.com",
-      "criteria" : "zzzz" }, { "event" : "ping_successful", "when" : "before", "url"
-      : "http://www.axway.com", "criteria" : "aaa" } ]'
+   configuration: '{ "configuration": [{ "event": "ping_successful","url": "http://www.axway.com","criteria":
+      "aaa"}, { "event": "ping_successful","url": "essai1","criteria": "essai2"}]}'
