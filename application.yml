@@ -1,1 +1,3 @@
-globalvar: "This is a global config variable"
+globalvar: This is a global config variable
+webhook:
+   eventtypes: '[ "ping_successful", "user_create" ]'
