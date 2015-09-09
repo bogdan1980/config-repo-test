@@ -7,3 +7,4 @@ logging:
    level.net.axway.spring.config.test: INFO
 bukey: butest
 bukey2: butest2
+testkey: testc
