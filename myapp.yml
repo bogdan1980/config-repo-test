@@ -6,5 +6,5 @@ configObject:
 logging:
    level.net.axway.spring.config.test: INFO
 d: c
-u: x
+u: t
 tata: toto
