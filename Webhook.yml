@@ -2,4 +2,6 @@ test: a
 webhook:
    eventtypes: '[ { "type":"hook_creation", "description":"Triggered on a successful
       webhook creation"}]'
+   configuration: '[{ "event": "hook_creation","when": "after","url": "http://axway.com","criteria":
+      ""}]'
 essai: essai
