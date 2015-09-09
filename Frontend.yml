@@ -1,5 +1,6 @@
 test: this is a test for the frontend
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
-   configuration: '[]'
+   configuration: '[{ "event": "ping_successful","when": "after","url": "http://axway.com","criteria":
+      ""}]'
 coucou: coucou
