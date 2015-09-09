@@ -4,3 +4,4 @@ webhook:
    configuration: '[{ "event": "ping_successful","when": "after","url": "http://axway.com","criteria":
       ""}, { "event": "ping_successful","when": "before","url": "http://axway.com","criteria":
       ""}]'
+coucou: coucou
