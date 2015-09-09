@@ -1,4 +1,5 @@
 test: a
 webhook:
-   eventtypes: '[ "ping_successful", "user_create" ]'
+   eventtypes: '[ { "type":"hook_creation", "description":"Triggered on a successful
+      webhook creation"}]'
 essai: essai
