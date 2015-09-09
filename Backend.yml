@@ -1,3 +1,2 @@
-test: "this is a test for the backend"
-webhooks:
-  eventtype: [ "ping_successful", "user_created" ]
+test: this is a test for the backend
+coucou: coucou
