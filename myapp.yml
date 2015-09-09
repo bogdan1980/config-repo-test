@@ -7,3 +7,4 @@ logging:
    level.net.axway.spring.config.test: INFO
 d: c
 u: x
+tata: toto
