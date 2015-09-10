@@ -3,7 +3,6 @@ coucou: coucou
 webhook:
    eventtypes: '[ { "type":"ping_successful", "description":"Triggered on a successful
       ping"} ] '
-   configuration: '[{ "event": "ping_successful","when": "after","url": "http://axway.com","criteria":
-      "tenant=''BNP'' & event.target=''backend''"}, { "event": "ping_successful","when":
-      "onerror","url": "http://axway.com","criteria": "port=8000"}, { "event": "ping_successful","when":
-      "after","url": "http://10.128.9.219:3001/execute/webhook1","criteria": ""}]'
+   configuration: '[{ "event": "ping_successful","when": "onerror","url": "http://axway.com","criteria":
+      "port=8000"}, { "event": "ping_successful","when": "after","url": "http://10.128.9.219:3001/execute/webhook1","criteria":
+      ""}]'
