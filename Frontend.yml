@@ -3,5 +3,7 @@ coucou: coucou
 webhook:
    eventtypes: '[ { "type":"ping_successful", "description":"Triggered on a successful
       ping"} ] '
+   events: '[ { "type":"ping_successful", "description":"Triggered on a successful
+      ping"} ] '
    configuration: '[{ "event": "ping_successful","when": "after","url": "http://10.128.9.219:3001/execute/webhook1","criteria":
       ""}]'
