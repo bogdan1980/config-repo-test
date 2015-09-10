@@ -4,7 +4,7 @@ webhook:
       webhook creation"}]'
    configuration: '[{ "event": "hook_creation","when": "after","url": "http://axway.com","criteria":
       ""}, { "event": "hook_creation","when": "onerror","url": "http://zuul:8080/portal/alert","criteria":
-      ""}]'
+      ""}, { "event": "hook_creation","when": "after","url": "test","criteria": "trest"}]'
    eventtypes.webhook: '[ { "type":"hook_creation", "description":"Triggered on a
       successful webhook creation"}]'
 essai: essai
