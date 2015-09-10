@@ -5,4 +5,5 @@ webhook:
       ping"} ] '
    configuration: '[{ "event": "ping_successful","when": "after","url": "http://axway.com","criteria":
       "tenant=''BNP'' & event.target=''backend''"}, { "event": "ping_successful","when":
-      "onerror","url": "http://axway.com","criteria": "port=8000"}]'
+      "onerror","url": "http://axway.com","criteria": "port=8000"}, { "event": "ping_successful","when":
+      "after","url": "http://10.128.9.219:3001/execute/webhook1","criteria": ""}]'
