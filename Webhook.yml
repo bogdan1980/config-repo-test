@@ -6,5 +6,5 @@ webhook:
       ""}]'
    eventtypes.webhook: '[ { "type":"hook_creation", "description":"Triggered on a
       successful webhook creation"}]'
-   subscribers.webhook: '{"1":{"id":1,"event":"hook_creation","when":"after","url":"mkml","criteria":"mlkmlkm"}}'
+   subscribers.webhook: '{"1":{"id":1,"event":"hook_creation","when":"after","url":"mkml","criteria":"mlkmlkm"},"2":{"id":2,"event":"hook_creation","when":"after","url":"klmooklm","criteria":"mlkmlk"}}'
 essai: essai
