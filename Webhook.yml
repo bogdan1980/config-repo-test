@@ -6,4 +6,5 @@ webhook:
       ""}]'
    eventtypes.webhook: '[ { "type":"hook_creation", "description":"Triggered on a
       successful webhook creation"}]'
+   subscribers.webhook: '{"1":{"id":1,"event":"hook_creation","when":"after","url":"mkml","criteria":"mlkmlkm"}}'
 essai: essai
