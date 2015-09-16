@@ -6,7 +6,7 @@ webhook:
       ""}, { "event": "hook_creation","when": "after","url": "kjlkj","criteria": "lkjlk"}]'
    eventtypes.webhook: '[ { "type":"hook_creation", "description":"Triggered on a
       successful webhook creation"}]'
-   subscribers.webhook: '{"1":{"id":1,"event":"hook_creation","when":"after","url":"klmooklm","criteria":"mlkmlk"},"2":{"id":"2","event":"hook_creation","when":"before","url":"test","criteria":"test2"},"3":{"id":"3","event":"hook_creation","when":"onerror","url":"ooo","criteria":"aaaaaa"},"4":{"id":"4","event":"hook_creation","when":"after","url":"klm","criteria":"mlkml"},"5":{"id":5,"event":"hook_creation","when":"after","url":"eeee","criteria":""}}'
+   subscribers.webhook: '{"1":{"id":1,"event":"hook_creation","when":"after","url":"klmooklm","criteria":"mlkmlk"},"2":{"id":"2","event":"hook_creation","when":"onerror","url":"testxxx","criteria":"test2"},"3":{"id":"3","event":"hook_creation","when":"onerror","url":"oooxxxx","criteria":"aaaaaa"},"4":{"id":4,"event":"hook_creation","when":"after","url":"klm","criteria":"mlkml"},"5":{"id":5,"event":"hook_creation","when":"after","url":"eeee","criteria":""}}'
    eventtypes.keystore: '[ { "type":"key_creation", "description":"Triggered on a
       successful keycreation"}]'
    subscribers.keystore: '{"1":{"id":"1","event":"key_creation","when":"after","url":"http://lptxrdnext01.lab1.lab.ptx.axway.int:3001/execute/GammaSendMail","criteria":""}}'
