@@ -3,7 +3,7 @@ webhook:
    eventtypes: '[ { "type":"hook_creation", "description":"Triggered on a successful
       webhook creation"}]'
    configuration: '[{ "event": "hook_creation","when": "onerror","url": "http://zuul:8080/portal/alert","criteria":
-      ""}, { "event": "hook_creation","when": "after","url": "kjlkj","criteria": "lkjlk"}]'
+      ""}]'
    eventtypes.webhook: '[ { "type":"hook_creation", "description":"Triggered on a
       successful webhook creation"}]'
    subscribers.webhook: '{"1":{"id":1,"event":"hook_creation","when":"after","url":"klmooklm","criteria":"mlkmlk"},"2":{"id":"2","event":"hook_creation","when":"onerror","url":"test","criteria":"test2"},"3":{"id":"3","event":"hook_creation","when":"before","url":"ooo","criteria":"aaaaaa"},"4":{"id":4,"event":"hook_creation","when":"after","url":"klm","criteria":"mlkml"},"5":{"id":5,"event":"hook_creation","when":"after","url":"eeee","criteria":""}}'
