@@ -1,4 +1,4 @@
 description: Config file for Dispatcher
-thirdParties: '{"name": "IAM", "instances" : [{"protocol": "http", "host": "192.168.48.136",
-   "port": 5000}, {"name": "Jenkins", "instances" : [{"protocol": "http", "host":
-   "builder12.ecd.axway.int", "port": 80}]}'
+thirdParties: '{ "protocol": "http", "service": "IAM", "host": "192.168.48.136", "port":
+   5000, register: { "imageName": "Keystone_3.0.0", "zone": "onpremise1"}}, {"protocol":
+   "http", "service": "Jenkins", "host": "builder12.ecd.axway.int", "port": 80}}'
