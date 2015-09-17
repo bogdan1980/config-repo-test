@@ -1,3 +1,4 @@
 description: Config file for Dispatcher
 thirdParties: '{"name": "IAM", "instances" : [{"protocol": "http", "host": "192.168.48.136",
-   "port": 5000}]}'
+   "port": 5000}, {"name": "Jenkins", "instances" : [{"protocol": "http", "host":
+   "builder12.ecd.axway.int", "port": 80}]}'
