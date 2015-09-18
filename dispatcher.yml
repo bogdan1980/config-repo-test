@@ -4,4 +4,4 @@ thirdParties: '{ "IAM" : {"protocol": "http", "host": "192.168.48.136", "port": 
    {"protocol": "http", "host": "10.128.57.186", "port": 43632}, "Influxdb": {"protocol":
    "http", "host": "10.128.57.186", "port": 3000}, "Kibana": {"protocol": "http",
    "host": "10.128.57.186", "port": 5601}, "Grafana": {"protocol": "http", "host":
-   "10.128.57.186", "port": 59618}}'
+   "10.128.57.186", "port": 3000}}'
