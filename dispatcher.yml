@@ -1,4 +1,7 @@
 description: Config file for Dispatcher
 thirdParties: '{ "IAM" : {"protocol": "http", "host": "192.168.48.136", "port": 5000,
-   "register": { "imageName": "Keystone_3.0.0", "zone": "onpremise1"}}, "Jenkins":
-   {"protocol": "http", "host": "builder12.ecd.axway.int", "port": 80}}'
+   "register": { "imageName": "Keystone_3.0.0", "zone": "onpremise1"}}, "Memecached":
+   {"protocol": "http", "host": "10.128.57.186/", "port": 43632}, "Influxdb": {"protocol":
+   "http", "host": "10.128.57.186/", "port": 3000}, "Kibana": {"protocol": "http",
+   "host": "10.128.57.186/", "port": 5601}, "Grafana": {"protocol": "http", "host":
+   "10.128.57.186/", "port": 59618}}'
