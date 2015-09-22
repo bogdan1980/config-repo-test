@@ -4,8 +4,8 @@ webhook:
       webhook creation"}]'
    configuration: '[{ "event": "hook_creation","when": "after","url": "www.axway.com/hello","criteria":
       ""}]'
-   eventtypes.webhook: '[ { "type":"hook_creation", "description":"Triggered on a
-      successful webhook creation"}]'
+   eventtypes.webhook: '[{"id":1,"type":"hook_creation","description":"Triggered on
+      a successful webhook creation"},{"id":"jqg1","type":"lmkml","description":"lmkml"}]'
    subscribers.webhook: '[{"id":2,"event":"hook_creation","when":"before","url":"ooo","criteria":"aaaaaa"},{"id":3,"event":"hook_creation","when":"after","url":"klm","criteria":"mlkml"},{"id":4,"event":"hook_creation","when":"after","url":"eeee","criteria":""},{"id":5,"event":"hook_creation","when":"after","url":"kmklm","criteria":"mlkml"},{"id":6,"event":"hook_creation","when":"onerror","url":"mlkml","criteria":"mlkml"}]'
    eventtypes.keystore: '[ { "type":"key_creation", "description":"Triggered on a
       successful keycreation"}]'
