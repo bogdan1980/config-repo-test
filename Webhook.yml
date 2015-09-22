@@ -11,6 +11,6 @@ webhook:
    eventtypes.keystore: '[{"id":1,"type":"key_creation","description":"Triggered on
       a successful key creation"},{"id":"jqg1","type":"key_deletion","description":"Triggered
       on a successful key deletion"}]'
-   subscribers.keystore: '[{"id":2,"event":"key_deletion","when":"before","url":"http://lptxrdnext01.lab1.lab.ptx.axway.int:3001/execute/GammaSendMail","criteria":""},{"event":"key_creation","when":"after","url":"jlkj","criteria":"","id":"jqg1"}]'
+   subscribers.keystore: '[{"id":2,"event":"key_deletion","when":"before","url":"http://lptxrdnext01.lab1.lab.ptx.axway.int:3001/execute/GammaSendMail","criteria":""}]'
    eventtypes.backend: '{}'
 essai: essai
