@@ -4,4 +4,3 @@ language: french
 year: 2015.21
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
-optional: "true"
