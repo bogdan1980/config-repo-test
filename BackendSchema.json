@@ -1,0 +1,9 @@
+{
+	"test":{"type":"String"},
+	"language":{"type":"String", "options":["french", "english"]},
+	"greeting":{"type":"String", "options":["coucou","hello"]},
+	"year":{"type":"Number"},
+	"optional":{"type":"Boolean"},
+	"webhook.eventtypes":{"type":"JSON"},
+	"sport":{"type":"String", "options":["tennis","football"]} 
+}
