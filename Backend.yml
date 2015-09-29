@@ -1,7 +1,7 @@
 test: this is a test for the backend
 greeting: coucou
 language: french
-year: '123'
+year: '1960'
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
 optional: 'true'
