@@ -1,6 +1,5 @@
-test: this is a test for the backend
+test: this is a test for backend
 greeting: coucou
-language: french
 year: '1960'
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
