@@ -5,3 +5,4 @@ year: '1960'
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
 optional: 'true'
+sport: tennis
