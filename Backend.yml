@@ -1,6 +1,6 @@
-test: this is a test!
+test: this is a simple test!
 greeting: hello
-year: '2015'
+year: '2014'
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
 optional: 'true'
