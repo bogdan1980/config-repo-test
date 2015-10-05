@@ -5,3 +5,4 @@ webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
 optional: 'true'
 sport: football
+a: b
