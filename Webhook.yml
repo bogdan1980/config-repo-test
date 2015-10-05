@@ -7,7 +7,7 @@ webhook:
    eventtypes.webhook: '[{"id":1,"type":"hook_creation","description":"Triggered on
       a successful webhook creation"},{"id":1,"type":"hook_deletion","description":"Triggered
       on a successful webhook deletion"}]'
-   subscribers.webhook: '[{"event":"hook_deletion","when":"after","url":true,"criteria":"klkl"},{"id":1,"event":"hook_deletion","when":"before","url":"ooo","criteria":"aaaaaa"},{"id":2,"event":"hook_creation","when":"after","url":"klm","criteria":"mlkml"},{"id":3,"event":"hook_creation","when":"after","url":"eeee","criteria":""},{"id":4,"event":"hook_creation","when":"after","url":"kmklm","criteria":"mlkml"},{"id":5,"event":"hook_creation","when":"onerror","url":"mlkml","criteria":"mlkml"}]'
+   subscribers.webhook: '[{"event":"hook_creation","when":"after","url":"jjjjj","criteria":""},{"id":1,"event":"hook_deletion","when":"after","url":true,"criteria":"klkl"},{"id":2,"event":"hook_deletion","when":"before","url":"ooo","criteria":"aaaaaa"},{"id":3,"event":"hook_creation","when":"after","url":"klm","criteria":"mlkml"},{"id":4,"event":"hook_creation","when":"after","url":"eeee","criteria":""},{"id":5,"event":"hook_creation","when":"after","url":"kmklm","criteria":"mlkml"},{"id":6,"event":"hook_creation","when":"onerror","url":"mlkml","criteria":"mlkml"}]'
    eventtypes.keystore: '[{"id":1,"type":"key_creation","description":"Triggered on
       a successful key creation"},{"id":"jqg1","type":"key_deletion","description":"Triggered
       on a successful key deletion"}]'
