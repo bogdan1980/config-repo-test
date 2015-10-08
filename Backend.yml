@@ -1,7 +1,7 @@
 test: this is a simple test1!
 greeting: hello
-year: '2014'
+year: '2015'
 webhook:
    eventtypes: '[ "ping_successful", "user_create" ]'
-optional: 'true'
+optional: 'false'
 sport: football
