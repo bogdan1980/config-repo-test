@@ -1,0 +1,4 @@
+{
+	"description":{"type":"String"},
+	"language":{"type":"String", "options":["french", "english"]}
+}
