@@ -5,5 +5,6 @@
 	"year":{"type":"Number"},
 	"optional":{"type":"Boolean"},
 	"webhook.eventtypes":{"type":"JSON"},
-	"sport":{"type":"String", "options":["tennis","football"]} 
+	"sport":{"type":"String", "options":["tennis","football"]},
+	"secretvalue":{"type":"String"}
 }
