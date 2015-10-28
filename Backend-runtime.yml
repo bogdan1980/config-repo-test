@@ -1,3 +1,4 @@
 test: Runtime test 2!
 year: '2016'
 sport: tennis
+secretvalue: '{cipher}f700aa542ca4245321226d8e401ead4acb9e6a808ec48b7221de0d5d7092916b'
