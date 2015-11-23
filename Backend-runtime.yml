@@ -3,3 +3,5 @@ year: '2016'
 sport: tennis
 greeting: coucou
 secretvalue: '{cipher}fbb715f8882790e79b1f22c9257e57651be88a854af986070bfc5df2b2f8afcf'
+language: '{cipher}{"timestamp":1448292082996,"status":405,"error":"Method Not Allowed","exception":"org.springframework.web.HttpRequestMethodNotSupportedException","message":"Request
+   method ''POST'' not supported","path":"/config/encrypt"}'
