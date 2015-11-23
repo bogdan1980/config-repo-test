@@ -1,3 +1,5 @@
 test: Runtime test something!
 year: '2016'
 sport: tennis
+greeting: '{cipher}{"timestamp":1448297949841,"status":405,"error":"Method Not Allowed","exception":"org.springframework.web.HttpRequestMethodNotSupportedException","message":"Request
+   method ''POST'' not supported","path":"/config/encrypt"}'
